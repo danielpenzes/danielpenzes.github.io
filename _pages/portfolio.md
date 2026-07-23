@@ -60,6 +60,6 @@ Mental Imagery Related: Research Proposal Previews
 
 Other: Completed Works
 ======
-* Study: Research Internship - Attention
+* _Study_: Research Internship - Attention
   * Summary:
   * Read more
