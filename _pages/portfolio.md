@@ -30,7 +30,7 @@ Mental Imagery Related: Completed Works
   * Summary:
   * Read more
 
-* _Study_: M.Sc. Thesis 2 - Vividness of Mental Imagery
+* _Study_: M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory
   * Summary:
   * Read more
 
@@ -41,7 +41,7 @@ Mental Imagery Related: Research Proposal Previews
   * Summary:
   * Read more
  
-* Involuntary Memory and Mental Imagery
+* Mental Imagery in Autobiographical Memory
   * Summary:
   * Read more
 
