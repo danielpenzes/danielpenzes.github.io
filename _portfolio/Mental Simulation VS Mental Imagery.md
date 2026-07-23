@@ -12,7 +12,7 @@ redirect_from:
 
 Abstract
 ======
-text
+Mental simulation during language processing can be understood as an unconscious cognitive process insofar it is contrasted with conscious mental imagery. However, this research proposal will argue that the reasons for such a distinction (e.g., the speed of reading, qualitative differences, and explicit instructions) are not strong enough. Nonetheless, instruction-manipulation provides an opportunity to empirically test similarities and possible differences between mental simulation and mental imagery. Such an approach is further required by recent arguments on unconscious mental imagery, both in mental imagery paradigms and in a specific population (i.e., aphantasia). Therefore, the primary goal of this research programme is to replicate mental simulation and mental imagery paradigms, doing so by manipulating instructions provided to participants (implicit or explicit imagery instructions), which could possibly result in different behavioural performances.
 
 Why this work matters?
 ======
