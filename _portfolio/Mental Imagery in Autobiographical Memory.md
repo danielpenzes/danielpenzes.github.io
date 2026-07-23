@@ -35,7 +35,7 @@ Skills Learned
 * 2
 * 3
 
-For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
+This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
 ← [Back to Research Portfolio](/portfolio/)
