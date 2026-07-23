@@ -9,3 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Abstract
+======
+text
+
+Why this work matters?
+======
+text
+
+Skills Learned
+======
+* 1
+* 2
+* 3
+
+For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
+
+
+← [Back to Research Portfolio](/portfolio/)
