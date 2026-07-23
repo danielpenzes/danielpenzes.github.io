@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: #"Table of Contents"
+title: "Table of Contents"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
