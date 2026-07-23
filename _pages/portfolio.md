@@ -35,6 +35,7 @@ Mental Imagery Related: Completed Works
   * [Read more](/portfolio/M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory/)
 
 
+ 
 Mental Imagery Related: Research Proposal Previews
 ======
 * Validity of Objective Mental Imagery Paradigms
@@ -58,6 +59,7 @@ Mental Imagery Related: Research Proposal Previews
   * [Read more](/portfolio/Mental Imagery and Artificial Intelligence/)
 
 
+ 
 Other: Completed Works
 ======
 * _Study_: Research Internship - Attention
