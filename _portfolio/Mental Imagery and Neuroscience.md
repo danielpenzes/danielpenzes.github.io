@@ -11,3 +11,24 @@ redirect_from:
 
 
 
+Abstract
+======
+text
+
+Why this work matters?
+======
+text
+
+Skills Learned
+======
+* 1
+* 2
+* 3
+
+[Download PDF](/files/03_Mental Imagery and Neuroscience.pdf)
+======
+
+
+
+
+← [Back to Research Portfolio](/portfolio/)
