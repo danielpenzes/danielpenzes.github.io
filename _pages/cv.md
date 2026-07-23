@@ -33,19 +33,19 @@ Former Work experience
 ======
 * 2018 - 2019: Customer Master File Specialist
   * IDEXX Europe BV (Netherlands)
-  * Duties included: Data management, Robotic Process Automation (RPA)
+  * Duties included: Data management, Reporting and Analysis, Robotic Process Automation (RPA)
 
 * 2017 - 2018: Business Improvement Analyst & Financial Reporting Analyst
   * Stryker Nederland BV & Nike Europe BV (Netherlands)
-  * Duties included: Workflow automation, Financial closing activities, Accounting
+  * Duties included: Reporting and Analysis, Workflow automation, Financial closing activities, Accounting
 
 * 2014 - 2017: Master Data & Technical Lead
   * Greif Ltd (Hungary)
-  * Duties included: Data management, Workflow automation, End-user training, Team coordination
+  * Duties included: Data management, Reporting and Analysis, Workflow automation, End-user training, Team coordination
 
 * 2010 - 2014: Master Data
   * Albemarle Ltd (Hungary)
-  * Duties included: Data management, Workflow automation
+  * Duties included: Data management, Reporting and Analysis, Workflow automation
 
 Skills
 ======
