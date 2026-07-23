@@ -11,28 +11,14 @@ redirect_from:
 MSc in Cognitive Science
 
 **Research Interest**
-Visual Mental Imagery
-Neural Correlates of Mental Imagery
-Aphantasia
-Mental Imagery in Other Cognitive Functions
+* Visual Mental Imagery
+* Neural Correlates of Mental Imagery
+* Aphantasia
+* Mental Imagery in Other Cognitive Functions
 
 **About Me**
 Biography
 
-**Current Research Interests**
-text, text
-
-**Research Portfolio**
-Link to
-
-Master Thesis I
-Master Thesis II
-
-Graduate Papers, courseworks
-
-Other Research Papers
-
-Research Proposals for the Future
 
 **CV**
 Download CV
