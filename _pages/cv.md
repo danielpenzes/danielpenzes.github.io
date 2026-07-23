@@ -29,10 +29,6 @@ Academic Service
 ======
 * Ad hoc peer reviewer for _Imagination, Cognition and Personality_, 2026 
   
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Former Work experience
 ======
 * 2018 - 2019: Customer Master File Specialist
