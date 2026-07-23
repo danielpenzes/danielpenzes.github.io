@@ -45,6 +45,8 @@ redirect_from:
   * Albemarle Ltd (Hungary)
   * Duties included: Data management, Reporting and analysis, Workflow automation
 
+---
+
 ## Skills
 * Skill 1
 * Skill 2
