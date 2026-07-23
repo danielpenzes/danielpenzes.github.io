@@ -19,10 +19,3 @@ MSc in Cognitive Science
 **About Me**
 Biography
 
-
-**CV**
-Download CV
-
-**Contact**
-Email
-LinkedIn
