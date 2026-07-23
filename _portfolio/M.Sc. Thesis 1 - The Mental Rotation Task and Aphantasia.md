@@ -9,3 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Abstract
+======
+text
+
+Why this work matters?
+======
+text
+
+Skills Learned
+======
+* 1
+* 2
+* 3
+
+[Download PDF](/files/M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia.pdf)
+======
+
+← [Back to Research Portfolio](/portfolio/)
