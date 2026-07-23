@@ -33,7 +33,7 @@ Former Work experience
 ======
 * 2018 - 2019: Customer Master File Specialist
   * IDEXX Europe BV (Netherlands)
-  * Duties included: Data management, Reporting and Analysis, Robotic Process Automation (RPA)
+  * Duties included: Data management, Reporting and Analysis, Robotic Process Automation
 
 * 2017 - 2018: Business Improvement Analyst & Financial Reporting Analyst
   * Stryker Nederland BV & Nike Europe BV (Netherlands)
