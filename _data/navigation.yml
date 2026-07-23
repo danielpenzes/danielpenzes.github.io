@@ -9,7 +9,7 @@
 
 main:
   - title: "Research Portfolio"
-    url: /talks/    
+    url: /portfolio/    
     
   - title: "CV"
     url: /cv/
