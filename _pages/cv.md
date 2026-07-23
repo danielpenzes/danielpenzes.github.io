@@ -11,27 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Cognitive Science, University of Umeå (Sweden), 2024
+* B.Sc. in Psychology, University of Amsterdam (Netherlands), 2022
+* B.A. in International Relations, King Sigismund College (Hungary), 2010
 
-Work experience
+Conference Talks
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Poster presentation at the Conference of the Swedish Cognitive Science Society (Sweden), 2024
+  * Topic: 'Visual mental imagery is not evidently separable from episodic memory recall'
+  * Link: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oral presentation at the Conference of the Swedish Cognitive Science Society (Sweden), 2023
+  * Topic: 'Interpreting mental rotation performance in people with self-described aphantasia through cognitive penetrability'
+  * Link: 
+ 
+Academic Service
+======
+* Ad hoc peer reviewer for _Imagination, Cognition and Personality_, 2026 
   
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Former Work experience
+======
+* 2018 - 2019: Customer Master File Specialist
+  * IDEXX Europe BV (Netherlands)
+  * Duties included: Data management, Robotic Process Automation (RPA)
+
+* 2017 - 2018: Business Improvement Analyst & Financial Reporting Analyst
+  * Stryker Nederland BV & Nike Europe BV (Netherlands)
+  * Duties included: Workflow automation, Financial closing activities, Accounting
+
+* 2014 - 2017: Master Data & Technical Lead
+  * Greif Ltd (Hungary)
+  * Duties included: Data management, Workflow automation, End-user training, Team coordination
+
+* 2010 - 2014: Master Data
+  * Albemarle Ltd (Hungary)
+  * Duties included: Data management, Workflow automation
+
 Skills
 ======
 * Skill 1
@@ -40,25 +59,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
