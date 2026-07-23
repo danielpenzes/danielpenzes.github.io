@@ -24,7 +24,7 @@ Skills Learned
 * 2
 * 3
 
-[Download PDF](/files/M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia.pdf)
+[Download PDF](/files/04_M.Sc. Thesis 1.pdf)
 ======
 
 ← [Back to Research Portfolio](/portfolio/)
