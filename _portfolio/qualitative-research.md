@@ -22,7 +22,7 @@ text
 * 2
 * 3
 
-[Download PDF](/files/02_Qualitative Research.pdf)
+[Download PDF](/files/qualitative-research.pdf)
 ======
 
 
