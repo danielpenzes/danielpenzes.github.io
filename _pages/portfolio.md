@@ -14,7 +14,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 ## Mental Imagery Related: Completed Works
 * _Literature Review_: Mental Imagery and Language
   * Summary:
-  * [Read more](/portfolio/Mental Imagery and Language/)
+  * [Read more](/portfolio/mentalimagery-language/)
  
 * _Study_: Qualitative Research
   * Summary:
