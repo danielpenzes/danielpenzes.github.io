@@ -43,7 +43,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 
 * Mental Simulation VS Mental Imagery
   * Summary:
-  * [Read more](/portfolio/Mental Simulation VS Mental Imagery/)
+  * [Read more](/portfolio/mentalsimulation-mentalimagery/)
  
 * Mental Imagery in Decision Making
   * Summary:
