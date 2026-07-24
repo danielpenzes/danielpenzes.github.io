@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mental Imagery and Artificial Intelligence"
-permalink: /portfolio/Mental Imagery and Artificial Intelligence/
+permalink: /portfolio/mentalimagery-AI/
 author_profile: true
 redirect_from:
   - /resume
