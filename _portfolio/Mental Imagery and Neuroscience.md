@@ -12,16 +12,13 @@ redirect_from:
 
 
  
-Abstract
-======
+## Abstract
 text
 
-Why this work matters?
-======
+## Why this work matters?
 text
 
-Skills Learned
-======
+## Open questions remaining
 * 1
 * 2
 * 3
