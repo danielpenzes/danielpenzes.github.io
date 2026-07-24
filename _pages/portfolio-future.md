@@ -14,21 +14,21 @@ This portfolio showcases previews of future research proposals on mental imagery
 ## Research Proposal Previews
 * Validity of Objective Mental Imagery Paradigms
   * Summary:
-  * [Read more](/portfolio/validity/)
+  * [Read more](/portfolio-future/validity/)
  
 * Mental Imagery in Autobiographical Memory
   * Summary:
-  * [Read more](/portfolio/mentalimagery-autobiographicalmemory/)
+  * [Read more](/portfolio-future/mentalimagery-autobiographicalmemory/)
 
 * Mental Simulation VS Mental Imagery
   * Summary:
-  * [Read more](/portfolio/mentalsimulation-mentalimagery/)
+  * [Read more](/portfolio-future/mentalsimulation-mentalimagery/)
  
 * Mental Imagery in Decision Making
   * Summary:
-  * [Read more](/portfolio/mentalimagery-decisionmaking/)
+  * [Read more](/portfolio-future/mentalimagery-decisionmaking/)
 
 * Mental Imagery and Artificial Intelligence
   * Summary:
-  * [Read more](/portfolio/mentalimagery-AI/)
+  * [Read more](/portfolio-future/mentalimagery-AI/)
  
