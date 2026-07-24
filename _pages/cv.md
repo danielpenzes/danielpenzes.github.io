@@ -33,9 +33,9 @@ redirect_from:
   * IDEXX Europe BV (Netherlands)
   * Duties included: Data management, Reporting and analysis, Robotic Process Automation
 
-* 2017 - 2018: Business Improvement Analyst & Financial Reporting Analyst
-  * Stryker Nederland BV & Nike Europe BV (Netherlands)
-  * Duties included: Reporting and analysis, Workflow automation, Financial closing activities, Accounting
+* 2017 - 2018: Financial Reporting Analyst& Business Improvement Analyst
+  * Nike Europe BV & Stryker Nederland BV (Netherlands)
+  * Duties included: Reporting and analysis, Workflow automation, Accounting & FP&A
 
 * 2014 - 2017: Master Data & Technical Lead
   * Greif Ltd (Hungary)
