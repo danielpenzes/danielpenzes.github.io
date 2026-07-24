@@ -51,7 +51,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 
 * Mental Imagery and Artificial Intelligence
   * Summary:
-  * [Read more](/portfolio/Mental Imagery and Artificial Intelligence/)
+  * [Read more](/portfolio/mentalimagery-AI/)
  
 ## Other: Completed Works
 * _Study_: Research Internship - Attention
