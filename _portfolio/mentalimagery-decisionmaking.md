@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mental Imagery in Decision Making"
-permalink: /portfolio/mentalimagery-decisionmaking/
+permalink: /portfolio-future/mentalimagery-decisionmaking/
 author_profile: true
 redirect_from:
   - /resume
@@ -25,4 +25,4 @@ text
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
-← [Back to Research Portfolio](/portfolio/)
+← [Back to Research Portfolio](/portfolio-future/)
