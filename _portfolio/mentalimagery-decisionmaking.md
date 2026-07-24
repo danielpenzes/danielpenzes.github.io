@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mental Imagery in Decision Making"
-permalink: /portfolio/Mental Imagery in Decision Making/
+permalink: /portfolio/mentalimagery-decisionmaking/
 author_profile: true
 redirect_from:
   - /resume
