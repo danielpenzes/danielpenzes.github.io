@@ -33,7 +33,7 @@ redirect_from:
   * IDEXX Europe BV (Netherlands)
   * Duties included: Data management, Reporting and analysis, Robotic Process Automation
 
-* 2017 - 2018: Financial Reporting Analyst& Business Improvement Analyst
+* 2017 - 2018: Financial Reporting Analyst & Business Improvement Analyst
   * Nike Europe BV & Stryker Nederland BV (Netherlands)
   * Duties included: Reporting and analysis, Workflow automation, Accounting & FP&A
 
