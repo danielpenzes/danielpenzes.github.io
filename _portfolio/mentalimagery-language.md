@@ -22,7 +22,7 @@ text
 * 2
 * 3
 
-[Download PDF](/files/01_Mental Imagery and Language.pdf)
+[Download PDF](/files/mentalimagery-language.pdf)
 ======
 
 
