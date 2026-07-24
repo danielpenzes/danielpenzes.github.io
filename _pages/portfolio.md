@@ -26,7 +26,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
  
 * _Study_: M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia
   * Summary:
-  * [Read more](/portfolio/M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia/)
+  * [Read more](/portfolio/msc-thesis1/)
 
 * _Study_: M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory
   * Summary:
