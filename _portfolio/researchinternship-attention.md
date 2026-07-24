@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Internship - Attention"
-permalink: /portfolio/Research Internship - Attention/
+permalink: /portfolio/researchinternship-attention/
 author_profile: true
 redirect_from:
   - /resume
