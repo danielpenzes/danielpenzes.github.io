@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia"
-permalink: /portfolio/M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia/
+permalink: /portfolio/msc-thesis1/
 author_profile: true
 redirect_from:
   - /resume
