@@ -35,7 +35,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 ## Mental Imagery Related: Research Proposal Previews
 * Validity of Objective Mental Imagery Paradigms
   * Summary:
-  * [Read more](/portfolio/Validity of Objective Mental Imagery Paradigms/)
+  * [Read more](/portfolio/validity/)
  
 * Mental Imagery in Autobiographical Memory
   * Summary:
