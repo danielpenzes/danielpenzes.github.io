@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mental Simulation VS Mental Imagery"
-permalink: /portfolio/mentalsimulation-mentalimagery/
+permalink: /portfolio-future/mentalsimulation-mentalimagery/
 author_profile: true
 redirect_from:
   - /resume
@@ -25,4 +25,4 @@ text
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
-← [Back to Research Portfolio](/portfolio/)
+← [Back to Research Portfolio](/portfolio-future/)
