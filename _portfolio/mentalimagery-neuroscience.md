@@ -23,7 +23,7 @@ text
 * 2
 * 3
 
-[Download PDF](/files/03_Mental Imagery and Neuroscience.pdf)
+[Download PDF](/files/mentalimagery-neuroscience.pdf)
 ======
 
 
