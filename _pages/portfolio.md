@@ -18,7 +18,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
  
 * _Study_: Qualitative Research
   * Summary:
-  * [Read more](/portfolio/Qualitative Research/)
+  * [Read more](/portfolio/qualitative-research/)
 
 * _Literature Review_: Mental Imagery and Neuroscience
   * Summary:
