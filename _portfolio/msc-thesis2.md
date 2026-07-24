@@ -22,7 +22,7 @@ text
 * 2
 * 3
 
-[Download PDF](/files/05_M.Sc. Thesis 2.pdf)
+[Download PDF](/files/msc-thesis2.pdf)
 ======
 
 
