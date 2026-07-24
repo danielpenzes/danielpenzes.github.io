@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mental Imagery in Autobiographical Memory"
-permalink: /portfolio/Mental Imagery in Autobiographical Memory/
+permalink: /portfolio/mentalimagery-autobiographicalmemory/
 author_profile: true
 redirect_from:
   - /resume
