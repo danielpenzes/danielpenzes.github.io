@@ -30,7 +30,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 
 * _Study_: M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory
   * Summary:
-  * [Read more](/portfolio/M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory/)
+  * [Read more](/portfolio/msc-thesis2/)
 
 ## Mental Imagery Related: Research Proposal Previews
 * Validity of Objective Mental Imagery Paradigms
