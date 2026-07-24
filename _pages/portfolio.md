@@ -39,7 +39,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
  
 * Mental Imagery in Autobiographical Memory
   * Summary:
-  * [Read more](/portfolio/Mental Imagery in Autobiographical Memory/)
+  * [Read more](/portfolio/mentalimagery-autobiographicalmemory/)
 
 * Mental Simulation VS Mental Imagery
   * Summary:
