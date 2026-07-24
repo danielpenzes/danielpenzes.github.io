@@ -47,7 +47,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
  
 * Mental Imagery in Decision Making
   * Summary:
-  * [Read more](/portfolio/Mental Imagery in Decision Making/)
+  * [Read more](/portfolio/mentalimagery-decisionmaking/)
 
 * Mental Imagery and Artificial Intelligence
   * Summary:
