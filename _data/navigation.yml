@@ -8,9 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research Portfolio"
+  - title: "Research Portfolio - Completed Works"
     url: /portfolio/    
     
+  - title: "Research Portfolio - Future Directions"
+    url: /portfolio-future/    
+
   - title: "CV"
     url: /cv/
     
