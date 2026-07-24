@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Qualitative Research"
-permalink: /portfolio/Qualitative Research/
+permalink: /portfolio/qualitative-research/
 author_profile: true
 redirect_from:
   - /resume
