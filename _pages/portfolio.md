@@ -56,4 +56,4 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 ## Other: Completed Works
 * _Study_: Research Internship - Attention
   * Summary:
-  * [Read more](/portfolio/Research Internship - Attention/)
+  * [Read more](/portfolio/researchinternship-attention/)
