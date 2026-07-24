@@ -22,7 +22,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 
 * _Literature Review_: Mental Imagery and Neuroscience
   * Summary:
-  * [Read more](/portfolio/Mental Imagery and Neuroscience/)
+  * [Read more](/portfolio/mentalimagery-neuroscience/)
  
 * _Study_: M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia
   * Summary:
