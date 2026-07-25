@@ -27,10 +27,12 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 * _Study_: M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia
   * Can people with aphantasia mentally rotate objects? What does the mental imagery debate have to say about this?
   * [Read more](/portfolio/msc-thesis1/)
+  * Also available on the [University Portal](https://umu.diva-portal.org/smash/record.jsf?pid=diva2:1775043)
 
 * _Study_: M.Sc. Thesis 2 - Vividness of Mental Imagery and Episodic Memory
   * Imagining a friend's face or recalling it: is there a difference in your experience?
   * [Read more](/portfolio/msc-thesis2/)
+  * Also available on the [University Portal](https://umu.diva-portal.org/smash/record.jsf?pid=diva2:1871634)
  
 ## Other
 * _Study_: Research Internship - Attention
