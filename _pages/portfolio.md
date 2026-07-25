@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Portfolio"
+title: "Research Portfolio: Completed Works"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
