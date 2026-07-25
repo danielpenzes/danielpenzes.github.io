@@ -18,9 +18,9 @@ Autobiographical memories – the memories of personal life events – are linke
 Autobiographical memory is an important factor in personal identity. Looking at some of the publicly available Facebook pages for aphantasia, there is an abundance of discussions on how a lack of mental imagery affects everyday memories; to a degree that some even find themselves and their lives minor or deteriorated relative to "normal" imagers. This type of "stigma" has negative effects on those involved, therefore a clarification is required on the role of mental imagery in different types of autobiographical memories.
 
 ## Open questions remaining
-* 1
-* 2
-* 3
+* Do aphantasics have degraded autobiographical memories relative to non-aphantasics, due to a lack of mental imagery?
+* Are mental images that we create deliberately less vivid than those that occur spontaneously?
+* Is there a connection between mental imagery and personal identity?
 
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
