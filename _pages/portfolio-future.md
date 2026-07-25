@@ -28,9 +28,9 @@ This portfolio showcases previews of future research proposals on mental imagery
   * Do you rely on your mental imagery when you have to make a decision under uncertainty?
   * [Read more](/portfolio-future/mentalimagery-decisionmaking/)
 
-* Mental Imagery Perception: an EEG study
+* Mental Imagery in Perception: an EEG study
   * text text text
-  * [Read more]()
+  * [Read more](/portfolio-future/mentalimagery-perception/)
 
 *  Mental Imagery and Artificial Intelligence
   * Do we believe that AI has mental imagery?
