@@ -22,6 +22,8 @@ Autobiographical memory is an important factor in personal identity. Looking at 
 * Are mental images that we create deliberately less vivid than those that occur spontaneously?
 * Is there a connection between mental imagery and personal identity?
 
+---
+
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
