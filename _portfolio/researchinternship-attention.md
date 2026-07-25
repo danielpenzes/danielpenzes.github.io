@@ -19,9 +19,9 @@ Previous research shows that transient covert attention – when an external sti
 This study was reported in the form of a project report, not exclusively in the form of a research paper. Nevertheless, I found it relevant to include it in here for two reasons. On the one hand, the attentional paradigm was replicated successfully, which in itself strengthens the idea that our covert attention can alter the way we perceive the external world. On the other hand, it has real-life implications. Imagine (pun intended) approaching a pedestrian crossing as you sit behind the wheel. Imagine as a ball appears on the side, rolling towards the front of your car. Imagine as a child runs towards that ball. You will react faster to hit the pedal and stop the car as your attention was "primed" by the ball, as opposed to not having a ball in the first place. Your visual perception (fortunately) was altered by your attention.
 
 ## Open questions remaining
-* 1
-* 2
-* 3
+* What is the case for unconscious processes in other attentional paradigms (e.g., in spatial frequency or in object size)?
+* As participants had to use both hands in their responses, would handedness influence these effects?
+* What about eyesight or even eye dominance?
 
 [Download PDF](/files/researchinternship-attention.pdf)
 ======
