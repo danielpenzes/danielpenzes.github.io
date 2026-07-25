@@ -22,6 +22,7 @@ It is generally assumed that every task in cognitive sciences measure what they 
 * Do non-aphantasics always rely on mental imagery when performing these tasks?
 * Would such investigations result in a replication crisis within the field of mental imagery?
 
+
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
