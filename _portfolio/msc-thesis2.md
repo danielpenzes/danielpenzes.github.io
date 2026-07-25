@@ -18,7 +18,7 @@ While previous research on episodic memory vividness aims at measuring episodic 
 In this study I argued that it is difficult to separate one psychological construct from another. The problem then follows in the form of researchers making conclusions only on one of them. One of the reasons why researchers may make conclusions on the "wrong" construct depends on what instructions are conveyed to participants. This highlights a general problem in our measurement tools; there may be a gap between how researchers and participants understand a cognitive task.
 
 ## Open questions remaining
-* 1
+* What could explain that non-aphantasic participants were affected by demand characteristic effects, contrary to predictions?
 * 2
 * 3
 
