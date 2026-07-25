@@ -18,7 +18,7 @@ Mental images are unique mental representations and the depictive view in the im
 text
 
 ## Open questions remaining
-* 1
+* How would non-aphantasics' performance on the MRT compare to aphantasics' performance, in terms of instruction manipulations?
 * 2
 * 3
 
