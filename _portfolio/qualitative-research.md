@@ -19,8 +19,8 @@ While the study of mental imagery is not a new field, investigating the experien
 
 ## Open questions remaining
 * Is describing what a mental image is different between those who have them and those who do not have them?
-* Many share and describe their lack of imagery experiences on public aphantasic Facebook pages; could these be studied with a qualitative approach?
 * Those who have mental images: how do they understand what a lack of it means?
+* Many share and describe their lack of imagery experiences on public aphantasic Facebook pages; could these be studied with a qualitative approach?
 
 [Download PDF](/files/qualitative-research.pdf)
 ======
