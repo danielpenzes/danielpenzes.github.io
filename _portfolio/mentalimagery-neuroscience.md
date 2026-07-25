@@ -13,7 +13,7 @@ redirect_from:
 
  
 ## Abstract
-text
+This literature review first describes the depictive view of the mental imagery debate, according to which the representation of a mental image holds structural correspondence to a representation of visual perception. Since the early visual areas of the brain are crucial in visual perception, the depictive view of the mental imagery debate could be strengthened by activation in these brain regions in association with mental imagery as well. However, the propositional view does not contend this structural correspondence with visual perception, but rather emphasises the importance of other propositional representations (e.g., beliefs). Therefore, neuroscientific support are enumerated in this review for and against the depictive view. Brain imaging findings for the depictive view include: topographically organised early visual areas in mental imagery; calcarine cortex activation, in association with imagining concrete or abstract things; or anatomical differences in V1, in relation to mental imagery. Brain imaging findings against the depictive view include: no V1 activation when concrete or abstract words, nor when geometrical shapes are imagined; negative correlation between mental imagery vividness and the primary visual cortex; or a meta-analysis showing inconsistency and ambiguous involvement of the early visual areas in mental imagery. Implications are discussed, such as the necessity to include other brain regions for explaining the neural correlates of mental imagery or expanding the mental imagery debate with the embodied cognition view.
 
 ## Why this work matters?
 text
