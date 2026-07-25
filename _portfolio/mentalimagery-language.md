@@ -19,7 +19,7 @@ Some of these ideas are followed up in my 'Qualitative Study' (e.g., how people 
 
 ## Open questions remaining
 * What experimental paradigms would best investigate aphantasia's language comprehension?
-* How could qualitative and quantitative techniques complement each other in this field?
+* How could qualitative and quantitative techniques complement each other in mental imagery and language comprehension studies?
 * Would brain imagining studies show different neural processes in language comprehension between aphantasics and non-aphantasics?
 
 [Download PDF](/files/mentalimagery-language.pdf)
