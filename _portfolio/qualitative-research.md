@@ -18,9 +18,9 @@ In my first study with aphantasia, a qualitative approach is used (e.g., interpr
 While the study of mental imagery is not a new field, investigating the experiences of aphantasia is only about 10 years old. Within this emerging topic, the quantitative approach is the most common; relatively few qualitative accounts are available. Since mental imagery can be a difficult concept, it is important to study it from multiple angles.
 
 ## Open questions remaining
+* Is describing what a mental image is different between those who have them and those who do not have them?
 * Many share and describe their lack of imagery experiences on public aphantasic Facebook pages; could these be studied with a qualitative approach?
-* 2
-* 3
+* Those who have mental images: how do they understand what a lack of it means?
 
 [Download PDF](/files/qualitative-research.pdf)
 ======
