@@ -21,7 +21,9 @@ Mental imagery plays a role in other higher-level functions, such as memory or p
 * Do our AI-related mental imagery beliefs depend on how we define mental imagery?
 * What are the criteria people use to have such beliefs?
 * What such beliefs do we have about humanoid robots?
+
 ---
+
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
