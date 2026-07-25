@@ -21,7 +21,7 @@ While the mental imagery debate started in the 70s, brain imagining techniques b
 ## Open questions remaining
 * Do our intuitions of our own mental imagery influence whether we subscribe to the depictive or the propositional view?
 * Does the type of a mental imagery task have an effect on associated brain activations?
-* 2
+* Can a subjective question (_What is it like to have mental imagery?_) be settled with an objective method (brain imagining)?
 
 [Download PDF](/files/mentalimagery-neuroscience.pdf)
 ======
