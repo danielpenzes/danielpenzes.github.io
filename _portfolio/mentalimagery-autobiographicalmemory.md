@@ -24,7 +24,7 @@ Autobiographical memory is an important factor in personal identity. Looking at 
 
 ---
 
-This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
+This is just a preview of the research proposal. If you'd like to hear more about it, please send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
 ← [Back to Research Portfolio](/portfolio-future/)
