@@ -16,7 +16,7 @@ This portfolio showcases previews of future research proposals on mental imagery
   * If people with aphantasia can perform mental imagery tasks via alternative strategies, do we have validity concerns? 
   * [Read more](/portfolio-future/validity/)
  
-*  Mental Simulation VS Mental Imagery
+* Mental Simulation VS Mental Imagery
   * When you read: do you have mental imagery or is it something else?
   * [Read more](/portfolio-future/mentalsimulation-mentalimagery/)
     
@@ -32,7 +32,7 @@ This portfolio showcases previews of future research proposals on mental imagery
   * text text text
   * [Read more](/portfolio-future/mentalimagery-perception/)
 
-*  Mental Imagery and Artificial Intelligence
+* Mental Imagery and Artificial Intelligence
   * Do we believe that AI has mental imagery?
   * [Read more](/portfolio-future/mentalimagery-AI/)
  
