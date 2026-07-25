@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This portfolio showcases previews of future research proposals on mental imagery. Collectively, these works reflect the evolution of my research interests in visual mental imagery and its relation to other cognitive processes.
+This portfolio showcases previews of future research proposals on mental imagery.
 
 ## Research Proposal Previews
 * Validity of Objective Mental Imagery Paradigms
