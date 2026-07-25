@@ -22,6 +22,8 @@ text
 * 2
 * 3
 
+---
+
 This is just a preview of the research proposal. For more details, send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
 
 
