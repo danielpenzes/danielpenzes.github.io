@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Portfolio - Future Directions"
+title: "Research Portfolio: Future Directions"
 permalink: /portfolio-future/
 author_profile: true
 redirect_from:
