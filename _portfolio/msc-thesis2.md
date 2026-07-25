@@ -19,8 +19,8 @@ In this study I argued that it is difficult to separate one psychological constr
 
 ## Open questions remaining
 * What could explain that non-aphantasic participants were affected negatively by demand characteristic effects, contrary to predictions?
-* Would using different terminology for vividness in the questionnaire (e.g., liveliness, brightness, amount of detail) lead to different scoring results?
-* 3
+* Would using different terminology for vividness in the questionnaire (e.g., liveliness, brightness, amount of detail) lead to different scores?
+* Where is the cut-off point on the VVIQ that meaningfully distinguishes aphantasia from non-aphantasia?
 
 [Download PDF](/files/msc-thesis2.pdf)
 ======
