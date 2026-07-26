@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This portfolio showcases previews of future research proposals on mental imagery.
+This portfolio showcases previews of research proposals for the future on mental imagery.
 
 ## Research Proposal Previews
 * Validity of Objective Mental Imagery Paradigms
