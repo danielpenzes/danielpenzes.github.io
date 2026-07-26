@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curious how the tasks look like from my two Master Theses? Here, you can complete the original experiments online. The first link opens an external site on the Mental Rotation Task, while the second link directs you to the Vividness Questionnaire. Data collection for these two links have already been closed. The third link is a little extra.
+Curious how the tasks look like from my two Master Theses? Here, you can complete the original experiments online. The first link opens an external site on the Mental Rotation Task, while the second link directs you to the Vividness Questionnaire. Data collection for these two have already been closed. The third link is a little extra.
 
 ## M.Sc. Thesis 1 - The Mental Rotation Task
 <a href="https://scripting.neurotask.com/exp/sqJqrhNfbJ" target="_blank" rel="noopener noreferrer">
