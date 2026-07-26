@@ -18,7 +18,7 @@ Villena-González et al. (2016) presented an experimental paradigm, in which it 
 This unique research design goes back to an earlier topic, whether neuroscience can inform the nature of mental images. The study of Villena-González et al. (2016) - in my opinion - was overlooked as there are no indications of direct or conceptual replications of it in the literature. Given the inherent challenges of interpreting EEG signals, the paradigm requires further scrutiny.
 
 ## Open questions remaining
-* 1
+* Do complex stimuli (e.g., questionnaire items of the VVIQ) have stronger effects on such EEG signals than simple stimuli (e.g., geometric shapes)?
 * 2
 * 3
 
