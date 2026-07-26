@@ -18,7 +18,7 @@ Mental simulation during language processing can be understood as an unconscious
 It seems to me that the two research fields – mental simulation and mental imagery – rarely work together. Nevertheless, their paradigms build on a similar premise; that there is something perceptual about the experience, be it reading a text or imagining its content. Therefore, I believe that the two fields could complement each other.
 
 ## Open questions remaining
-* 1
+* In mental simulation paradigms, participants are not instructed to imagine what they read. Does that mean that there is no mental imagery involved at all?
 * 2
 * 3
 
