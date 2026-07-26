@@ -29,7 +29,7 @@ This portfolio showcases previews of future research proposals on mental imagery
   * [Read more](/portfolio-future/mentalimagery-decisionmaking/)
 
 * Mental Imagery in Perception: an EEG study
-  * text text text
+  * Does your brain show that you were paying attention to your mental images rather than to the external world?
   * [Read more](/portfolio-future/mentalimagery-perception/)
 
 * Mental Imagery and Artificial Intelligence
