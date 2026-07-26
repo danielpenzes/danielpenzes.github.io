@@ -26,6 +26,13 @@ redirect_from:
 ## Academic Service
 * Ad hoc peer reviewer for _Imagination, Cognition and Personality_, 2026 
 
+## Skills
+* Data Acquisition: PsychoPy, NeuroTask Scripting
+* Programming: Python, JavaScript, VBA, HTML
+* Data Analysis: JASP, SPSS, R
+* Other Software:	MS Office, SAP, LN, Salesforce, Winshuttle, UiPath
+* Languages:	English (C2), French (B2), Hungarian (native)
+
 ---
 
 ## Former Work experience
@@ -44,13 +51,3 @@ redirect_from:
 * 2010 - 2014: Master Data
   * Albemarle Ltd (Hungary)
   * Duties included: Data management, Reporting and analysis, Workflow automation
-
----
-
-## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
