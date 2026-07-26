@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto.jpg"
+  avatar           : "myphotoB.jpg"
   name             : "Dániel Pénzes"
   pronouns         : # example: "she/her"  
   bio              : "An Emerging Cognitive Scientist of Mental Imagery"
