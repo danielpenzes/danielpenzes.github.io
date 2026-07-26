@@ -19,7 +19,7 @@ Mental imagery in emotional processing is extensively studied in clinical psycho
 
 ## Open questions remaining
 * Would pupillary reactions be a good indicator to distinguish between mental imagery and emotional responses?
-* 2
+* Is mental imagery a general trait in this context or intraindividual differences occur depending on scenarios?
 * 3
 
 ---
