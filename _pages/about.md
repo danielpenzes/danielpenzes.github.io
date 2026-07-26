@@ -21,5 +21,5 @@ Should these topics spark your interest, I'd love to hear more about it. You can
 
 ---
 
-p.s. 
+p.s. My profile picture _does_ have a meaning. Hint: it has something to do with my "armchair".
 
