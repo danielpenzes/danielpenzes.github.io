@@ -18,8 +18,3 @@ Collectively, the works on this research portfolio reflect the evolution of my r
 * After a short detour with my CV, the last part closes with some interactive challenges you can try out yourself.
 
 Should these topics spark your interest, I'd love to hear more about it. You can always send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
-
----
-
-p.s. My profile picture _does_ have a meaning. Hint: it has something to do with my armchair.
-
