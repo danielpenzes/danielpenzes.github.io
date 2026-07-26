@@ -17,4 +17,4 @@ Collectively, the works on this research portfolio reflect the evolution of my r
 * The second part looks ahead and offers some ideas for future research.
 * After a short detour to my CV, the last part closes with some interactive challenges you can try out yourself.
 
-Should these topics spark your interest, I'd love to hear more about it. You can always send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
+Should these topics spark your interest, I'd love to hear about it. You can always send an email to [daniel.penzes@gmail.com](mailto:daniel.penzes@gmail.com).
