@@ -30,8 +30,8 @@ redirect_from:
 * Data Acquisition: PsychoPy, NeuroTask Scripting
 * Programming: Python, JavaScript, VBA, HTML
 * Data Analysis: JASP, SPSS, R
-* Other Software:	MS Office, SAP, LN, Salesforce, Winshuttle, UiPath
-* Languages:	English (C2), French (B2), Hungarian (native)
+* Other Software: MS Office, SAP, LN, Salesforce, Winshuttle, UiPath
+* Languages: English, French, Hungarian
 
 ---
 
