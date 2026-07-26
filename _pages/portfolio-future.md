@@ -21,7 +21,7 @@ This portfolio showcases previews of future research proposals on mental imagery
   * [Read more](/portfolio-future/mentalsimulation-mentalimagery/)
     
 * Mental Imagery in Autobiographical Memory
-  * Does your mental imagery capabilities affect whether your memories come to you easily or unintentionally?
+  * Do your mental imagery capabilities affect whether your memories come to you easily or unintentionally?
   * [Read more](/portfolio-future/mentalimagery-autobiographicalmemory/)
 
 * Mental Imagery in Decision Making
