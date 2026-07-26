@@ -19,8 +19,8 @@ This unique research design goes back to an earlier topic, whether neuroscience 
 
 ## Open questions remaining
 * Do complex stimuli (e.g., questionnaire items of the VVIQ) have stronger effects on such EEG signals than simple stimuli (e.g., geometric shapes)?
-* 2
-* 3
+* Would task instructions elicit differences in such EEG signals?
+* Could these findings inform applications in Brain-Computer Interfaces (BCIs), for example, alternative ways for communication for locked-in patients?
 
 ---
 
