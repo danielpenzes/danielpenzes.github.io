@@ -17,11 +17,11 @@ redirect_from:
 ## Conference Talks
 * Poster presentation at the Conference of the Swedish Cognitive Science Society (Sweden), 2024
   * Topic: 'Visual mental imagery is not evidently separable from episodic memory recall' (M.Sc. Thesis 2)
-  * [Link](https://his.diva-portal.org/smash/get/diva2:1905923/FULLTEXT02.pdf#page=75)
+  * <a href="https://his.diva-portal.org/smash/get/diva2:1905923/FULLTEXT02.pdf#page=75" target="_blank" rel="noopener noreferrer">Link</a>
 
 * Oral presentation at the Conference of the Swedish Cognitive Science Society (Sweden), 2023
   * Topic: 'Interpreting mental rotation performance in people with self-described aphantasia through cognitive penetrability' (M.Sc. Thesis 1)
-  * [Link](https://his.diva-portal.org/smash/get/diva2:1810446/FULLTEXT02.pdf#page=56)
+  * <a href="https://his.diva-portal.org/smash/get/diva2:1810446/FULLTEXT02.pdf#page=56" target="_blank" rel="noopener noreferrer">Link</a>
  
 ## Academic Service
 * Ad hoc peer reviewer for _Imagination, Cognition and Personality_, 2026 
