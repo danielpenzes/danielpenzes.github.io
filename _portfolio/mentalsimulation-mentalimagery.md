@@ -19,8 +19,8 @@ It seems to me that the two research fields – mental simulation and mental ima
 
 ## Open questions remaining
 * In mental simulation paradigms, participants are not instructed to imagine what they read. Does that mean that there is no mental imagery involved at all?
-* 2
-* 3
+* Provided that aphantasia lacks mental imagery, what alternative processes do they rely on during reading?
+* What is exactly aphantasia? A lack of a process? A lack of awareness? Individual variation?
 
 ---
 
