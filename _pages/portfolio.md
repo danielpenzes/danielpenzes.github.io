@@ -23,6 +23,7 @@ This portfolio showcases selected coursework papers (_Literature Reviews_) and c
 * _Literature Review_: Mental Imagery and Neuroscience
   * What is the mental imagery debate? And how can brain imaging studies inform the opposing views?
   * [Read more](/portfolio/mentalimagery-neuroscience/)
+  * In collaboration with Andreas Sellstone
  
 * _Study_: M.Sc. Thesis 1 - The Mental Rotation Task and Aphantasia
   * Can people with aphantasia mentally rotate objects? What does the mental imagery debate have to say about this?
