@@ -25,7 +25,7 @@ While the study of mental imagery is not a new field, investigating the experien
 [Download PDF](/files/qualitative-research.pdf)
 ======
 
-
+---
 
 
 ← [Back to Research Portfolio](/portfolio/)
