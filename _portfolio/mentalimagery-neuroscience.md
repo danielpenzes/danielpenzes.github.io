@@ -26,7 +26,7 @@ While the mental imagery debate started in the 70s, brain imagining techniques b
 [Download PDF](/files/mentalimagery-neuroscience.pdf)
 ======
 
-
+---
 
 
 ← [Back to Research Portfolio](/portfolio/)
