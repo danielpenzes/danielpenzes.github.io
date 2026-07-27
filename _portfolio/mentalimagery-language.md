@@ -25,7 +25,7 @@ The problem of mental imagery in language comprehension is rooted in the general
 [Download PDF](/files/mentalimagery-language.pdf)
 ======
 
-
+---
 
 
 ← [Back to Research Portfolio](/portfolio/)
