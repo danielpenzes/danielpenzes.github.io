@@ -27,7 +27,7 @@ Launch the experiment
 </a>
 
 ## A little extra: "Armchair Cognitive Science"
-I call this task "armchair cognitive science". Armchair, as it echoes armchair philosophy, where we think about our intuitions and introspect on our experiences. Cognitive science, as the exercise follow the format of a typical cognitive task.
+I call this task "armchair cognitive science". Armchair, as it echoes armchair philosophy, where we think about our intuitions and introspect on our experiences. Cognitive science, as the exercise follows the format of a typical cognitive task.
 
 The task is simple: there will be one question (with some variations), after which you can indicate your response freely.
 
