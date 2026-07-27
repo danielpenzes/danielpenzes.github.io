@@ -25,6 +25,6 @@ The mental rotation paradigm is one of the most cited and most replicated experi
 [Download PDF](/files/msc-thesis1.pdf)
 ======
 
-
+---
 
 ← [Back to Research Portfolio](/portfolio/)
