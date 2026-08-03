@@ -32,7 +32,8 @@ This portfolio showcases previews of research proposals for the future on mental
   * Does your brain show that you were paying attention to your mental images rather than to the external world?
   * [Read more](/portfolio-future/mentalimagery-perception/)
 
+<!--
 * Mental Imagery and Artificial Intelligence
   * Do we believe that AI has mental imagery?
   * [Read more](/portfolio-future/mentalimagery-AI/)
- 
+ -->
